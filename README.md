@@ -1,4 +1,4 @@
-# Too 100 Billboard - Spotify Playlist Creator 🎵
+# Top 100 Billboard - Spotify Playlist Creator 🎵
 
 This Python script allows you to generate a Spotify playlist with the top 100 Billboard songs from a specified date.
 
